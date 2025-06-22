@@ -1,0 +1,25 @@
+HTML tags used:
+1. <nav>
+2. <h1>
+3. <p>
+4. <img>
+5. <ul>
+6. <li>
+7. <form>
+8. <label>
+9. <input>
+10. <button>
+
+CSS selectors used:
+1. body
+2. .navbar
+3. #main-title
+4. .section-title
+5. p
+
+CSS properties used:
+1. background-color
+2. font-family
+3. color
+4. margin-bottom
+5. line-height
