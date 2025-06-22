@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Program uses elements and then swaps them to put in correct order. Goes through the list until no more swap required. This is demonstrative of bubble sort.
+
+sort2 uses: merge sort
+
+How do you know?: Program makes the list into smaller lists using recursion and then sorts them and then merges them. This is characteristic of merge sort
+
+sort3 uses: selection sort
+
+How do you know?: Progam chooses smallest element that is unsorted in each go through and puts it at the start of the unsorted part. This is characteristic of selection sort.
